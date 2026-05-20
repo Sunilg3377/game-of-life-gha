@@ -1,4 +1,4 @@
-name: Deploy to Game of Life
+name: Deploy to Game of Lifee
 
 on:
   push:
