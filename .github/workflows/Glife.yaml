@@ -3,7 +3,7 @@ name: Deploy to Game of Lifee
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
